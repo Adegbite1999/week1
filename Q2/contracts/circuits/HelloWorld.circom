@@ -11,6 +11,11 @@ template Multiplier2 () {
 
    // Constraints.  
    c <== a * b;  
+
+
+    The circuit Multiplier2() in HelloWorld.circum multiplies a * b and the out c.
+   That is Given the block of code, we specify firstly our compiler version, then define a new circuit using the keyword template called Multiplier2()
+    
 }
 
 component main = Multiplier2();
